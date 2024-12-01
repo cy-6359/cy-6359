@@ -3,7 +3,7 @@
 其实我是个挺沙雕的人，只要遇到了够沙雕的老友，我就会原形毕露。
 善于独立思考，经常陷入沉思漩涡当中，无法自拔。
 
-JavaScript
+JavaScript、TypeScript
 Golang
 Java
 Python
