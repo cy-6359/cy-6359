@@ -4,7 +4,7 @@
 比较多愁善感，不会说一些花言巧语。善于独立思考，经常陷入沉思漩涡当中，无法自拔。
 其实我是个挺沙雕的人，只要遇到了够沙雕的老友，我就会原形毕露。
 
-### 略懂 JavaScript、TypeScript、Java、Golang、Python
+### 略懂 TypeScript、Java、Golang、Python
 
 #### 开发的免费解决方案：
 
